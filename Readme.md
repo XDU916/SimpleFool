@@ -78,8 +78,8 @@ Change visualizer.py to set nontargeted attack.
 
 # Result
 
-![cifar10](./demo_image/cifar10.png)
+<img src="./demo_image/cifar10.png" alt="cifar10" style="zoom:150%;" />
 
-![gtsrb](./demo_image/gtsrb.png)
+<img src="./demo_image/gtsrb.png" alt="gtsrb" style="zoom:200%;" />
 
 ![imagenet](./demo_image/imagenet.png)
